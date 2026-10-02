@@ -1,0 +1,8 @@
+{
+  "name": "GF-plugin-xinjia",
+  "displayName": "GF_mk-娱乐",
+  "author": "GF_mk",
+  "version": "1.1.0",
+  "entry": "index.mjs",
+  "description": "QQ 官方娱乐：点歌、视频解析、今日运势；控制台 React 后台"
+}

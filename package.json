@@ -1,0 +1,13 @@
+{
+  "name": "GF-plugin-xinjia",
+  "plugin": "GF_mk",
+  "version": "1.1.0",
+  "type": "module",
+  "main": "index.mjs",
+  "description": "QQ 官方机器人娱乐插件（GF_mk）：点歌、运势、Sharp 后台",
+  "author": "GF_mk",
+  "webuiModule": "webui/remote.js",
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
